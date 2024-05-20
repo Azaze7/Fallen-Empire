@@ -7,7 +7,7 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 2. What Files are Enclosed Here?
 3. Video Demonstration.
 4. Virtual Machine Usage.
- 4a. What Virtual Machines Were Used?
+ * 4a. What Virtual Machines Were Used?
 
 ## ⌨️ What is Powershell-Empire? 
 
