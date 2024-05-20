@@ -12,7 +12,7 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 
 *
 
-## What Files are Enclosed Here?
+## 🗂️ What Files are Enclosed Here?
 
 *
 
