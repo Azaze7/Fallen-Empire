@@ -3,11 +3,11 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 
 ## 🔎 Table of Contents
 
-* 1. What is Powershell-Empire?
-* 2. What Files are Enclosed Here?
-* 3. Video Demonstration.
-* 4. Virtual Machine Usage.
- * 4a. What Virtual Machines Were Used?
+1. What is Powershell-Empire?
+2. What Files are Enclosed Here?
+3. Video Demonstration.
+4. Virtual Machine Usage.
+ 4a. What Virtual Machines Were Used?
 
 ## ⌨️ What is Powershell-Empire? 
 
