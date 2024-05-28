@@ -1,5 +1,5 @@
 # Fallen-Empire
-Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the use of Powershell-Empire, a now deprecated post-exploitation framework
+Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the use of Powershell-Empire, a now deprecated post-exploitation framework.
 
 <p align="center">
 <img src="https://github.com/Azaze7/Fallen-Empire/blob/main/Powershell_Empire_Screenshot.png" width="539" height="306">
