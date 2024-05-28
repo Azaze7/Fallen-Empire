@@ -30,8 +30,12 @@ Hector Diaz.
 
 | Filename | Type | Description | 
 | --------------- | --------------- | --------------- |
-| DemoPresentation_Software_Vulnerabilties_Guzman_Diaz_Remes_SanMiguel | .pptx | Row 1, Col 2    |
-| InfoPresentation_Software_Vulnerabilties_Guzman_Diaz_Remes_SanMiguel | .pptx | Row 1, Col 2    |
+| DemoPresentation_Software... | .pptx | Row 1, Col 2    |
+| InfoPresentation_Software... | .pptx | Row 1, Col 2    |
+| Poster_Software... | .pptx | Row 1, Col 2    |
+| Exercise_Software... | .docx | Row 1, Col 2    |
+| Final_Powershell_Command_Encoded_Base64 | .ps1 | Row 1, Col 2    |
+| Powershell_Empire_Screenshot | .png | Row 1, Col 2    |
 
 ## 🎞️ Video Demonstration.
 
