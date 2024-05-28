@@ -22,11 +22,16 @@ Hector Diaz.
 
 ## ⌨️ What is Powershell-Empire? 
 
-*
+* Powershell-Empire was an open-source post-exploitation agent that ran through Windows Powershell.
+* It allowed for a user to generate attack scripts for use against other Windows machines, MacOS, or Linux subsystems.
+* It is not offically maintained as of August of 2019, but a fork was used as a base for the creation of this cybersecurity excercise.
 
 ## 🗂️ What Files are Enclosed Here?
 
-*
+| Column 1 Header | Column 2 Header |
+| --------------- | --------------- |
+| Row 1, Col 1    | Row 1, Col 2    |
+| Row 2, Col 1    | Row 2, Col 2    |
 
 ## 🎞️ Video Demonstration.
 
