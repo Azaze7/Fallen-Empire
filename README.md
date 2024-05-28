@@ -39,17 +39,17 @@ Hector Diaz.
 
 ## 🎞️ Video Demonstration.
 
-* A video demonstrating the use of powershell Empire was created by myself for this project.
+* A video demonstrating the use of PowerShell-Empire was created by myself for this project.
 * Since it is too big to upload here, it can be found at this link:
   * https://www.youtube.com/watch?v=DJutJYl7XlY 
 
 ## 💻 Virtual Machine Usage.
 
-*
+* Due to this project involving the use of multiple computers at once, I decided to utilize Virtual Machines. 
 
  * **This Project REQUIRED the use of Two Virtual Machines.**
  * They were:
-  * 1. 
-   * aasdaasassgf
-  * 2. Haha
-   * sfawasfaf
+  * 1. Kali Linux, with the additional installiation of PowerShell-Empire. It can be found HERE: 
+   * https://www.kali.org/get-kali/#kali-platforms
+  * 2. Windows 7 Professional Edition. (Since it is now discontinued and no longer supported by Microsoft, it can be obtained for free via Archive) It can be found HERE:
+   * https://archive.org/details/20230422_20230422_1429
