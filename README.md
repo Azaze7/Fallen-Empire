@@ -30,12 +30,12 @@ Hector Diaz.
 
 | Filename | Type | Description | 
 | --------------- | --------------- | --------------- |
-| DemoPresentation_Software... | .pptx | Row 1, Col 2    |
-| InfoPresentation_Software... | .pptx | Row 1, Col 2    |
-| Poster_Software... | .pptx | Row 1, Col 2    |
-| Exercise_Software... | .docx | Row 1, Col 2    |
-| Final_Powershell_Command_Encoded_Base64 | .ps1 | Row 1, Col 2    |
-| Powershell_Empire_Screenshot | .png | Row 1, Col 2    |
+| DemoPresentation_Software... | .pptx | PowerPoint used during live demo. |
+| InfoPresentation_Software... | .pptx | PowerPoint used to inform audience about PowerShell-Empire. |
+| Poster_Software... | .pptx | PowerPoint that contains a single slide "poster" about PowerShell-Empire. |
+| Exercise_Software... | .docx | Word Document that contains instructions on how to use PowerShell-Empire, in the same format used in class.|
+| Final_Powershell_Command_Encoded_Base64 | .ps1 | Script used in Windows PowerShell. It contains instructions to take control of a Windows 7 Professional Virtual Machine. |
+| Powershell_Empire_Screenshot | .png | Sample Screenshot of Kali Linux & Windows 7 Professional. Used for the README. |
 
 ## 🎞️ Video Demonstration.
 
