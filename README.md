@@ -47,8 +47,8 @@ Hector Diaz.
 
 * Due to this project involving the use of multiple computers at once, I decided to utilize Virtual Machines. 
 
- * **This Project REQUIRED the use of Two Virtual Machines.**
- * They were:
+**This Project REQUIRED the use of Two Virtual Machines.**
+They were:
 1. Kali Linux, with the additional installiation of PowerShell-Empire. 
 * It can be found HERE: 
    * https://www.kali.org/get-kali/#kali-platforms
