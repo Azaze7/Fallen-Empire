@@ -52,6 +52,6 @@ Hector Diaz.
 1. Kali Linux, with the additional installiation of PowerShell-Empire. 
 * It can be found HERE: 
    * https://www.kali.org/get-kali/#kali-platforms
-2. Windows 7 Professional Edition. [Since it is now discontinued and no longer supported by Microsoft, it can be obtained for free via Archive]
+2. Windows 7 Professional Edition. [Now discontinued and no longer supported by Microsoft, it can be obtained for free via Archive]
 * It can be found HERE:
    * https://archive.org/details/20230422_20230422_1429
