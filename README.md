@@ -28,10 +28,10 @@ Hector Diaz.
 
 ## 🗂️ What Files are Enclosed Here?
 
-| Column 1 Header | Column 2 Header |
-| --------------- | --------------- |
-| Row 1, Col 1    | Row 1, Col 2    |
-| Row 2, Col 1    | Row 2, Col 2    |
+| Filename | Type | Description | 
+| --------------- | --------------- | --------------- |
+| DemoPresentation_Software_Vulnerabilties_Guzman_Diaz_Remes_SanMiguel | .pptx | Row 1, Col 2    |
+| InfoPresentation_Software_Vulnerabilties_Guzman_Diaz_Remes_SanMiguel | .pptx | Row 1, Col 2    |
 
 ## 🎞️ Video Demonstration.
 
