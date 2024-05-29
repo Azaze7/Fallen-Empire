@@ -11,7 +11,7 @@ Special Thanks to:
 
 [Fernando H. Remes](https://github.com/FernRemes "Fernie's Github"),
 
-Jose San Miguel,
+[Jose San Miguel](https://github.com/JMSaint14 "Jose's Github"),
 
 Hector Diaz.
 
