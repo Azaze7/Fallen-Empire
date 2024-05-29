@@ -9,7 +9,7 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 
 <ins>Special Thanks to:</ins>
 
-Fernando H. Remes,
+[Fernando H. Remes](https://github.com/FernRemes "Fernie's Github"),
 
 Jose San Miguel,
 
