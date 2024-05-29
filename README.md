@@ -7,7 +7,7 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 
 **This Project was completed with the assistance of three group members!**
 
-Special Thanks to:
+<ins>Special Thanks to:</ins>
 
 Fernando H. Remes,
 
