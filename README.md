@@ -10,7 +10,9 @@ Final Project/Presentation for CS 4177, Software Vulnerabilities. Showcases the 
 Special Thanks to:
 
 Fernando H. Remes,
+
 Jose San Miguel,
+
 Hector Diaz.
 
 ## 🔎 Table of Contents
