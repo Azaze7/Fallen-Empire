@@ -13,7 +13,7 @@ Special Thanks to:
 
 [Jose San Miguel](https://github.com/JMSaint14 "Jose's Github"),
 
-[Hector Diaz](https://github.com/hodiazwn "Hector's Github"),
+[Hector Diaz](https://github.com/hodiazwn "Hector's Github").
 
 ## 🔎 Table of Contents
 
