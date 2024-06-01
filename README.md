@@ -15,7 +15,7 @@ Special Thanks to:
 
 [Hector Diaz](https://github.com/hodiazwn "Hector's Github").
 
-## 🔎 Table of Contents
+## 🔎 Table of Contents.
 
 1. What is Powershell-Empire?
 2. What Files are Enclosed Here?
